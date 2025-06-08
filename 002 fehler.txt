@@ -1,0 +1,10 @@
+# Fehlercode;Beschreibung
+10;Positionierungsfehler
+9;Lagerschaden
+8;Mechanischer Defekt
+7;Softwareabsturz
+6;Überlastung
+5;Spannungsabfall
+4;Kein Signal
+3;Überhitzung
+2;Sensor defekt

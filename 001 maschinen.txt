@@ -1,0 +1,9 @@
+# Maschinencode;Name
+101;Fräsmaschine
+102;Bohrmaschine
+103;CNC-Router
+104;Schweissroboter
+105;Montagestation
+106;Verpackungseinheit
+107;Lasergerät
+108;Pressmaschine
